@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1717075141 source:c:\personal\codeblocks\temapa\main.c
+	<stdio.h>
+	<stdlib.h>
+	"syntax_corrector.h"
+
+1717074574 c:\personal\codeblocks\temapa\syntax_corrector.h
+
